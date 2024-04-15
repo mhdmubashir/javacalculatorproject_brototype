@@ -34,7 +34,7 @@ public class Calculator implements ActionListener {
     JButton clearButton;
 
     public Calculator() {
-        jf = new JFrame("Calculator");
+        jf = new JFrame("Mubashir's Calculator");
         jf.setLayout(null);
         jf.setSize(600, 600);
         jf.setLocation(200, 200);
